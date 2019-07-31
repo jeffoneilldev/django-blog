@@ -2,3 +2,9 @@
 *.pyc
 .c9
 __pycache__/
+=.026
+=2.3
+__init__.pyc
+settings.pyc
+urls.pyc
+wsgi.pyc
