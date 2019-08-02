@@ -9,10 +9,13 @@ dj-database-url==0.5.0
 Django==2.2.4
 django-forms-bootstrap==3.1.0
 docutils==0.14
+Flask==1.1.1
 idna==2.8
 ikp3db==1.1.4
 isort==4.3.21
+itsdangerous==1.1.0
 jedi==0.11.1
+Jinja2==2.10.1
 jmespath==0.9.4
 lazy-object-proxy==1.4.1
 mccabe==0.6.1
@@ -39,4 +42,5 @@ urllib3==1.25.3
 virtualenv==16.2.0
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
+Werkzeug==0.15.5
 wrapt==1.11.2
